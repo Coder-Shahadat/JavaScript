@@ -7,7 +7,6 @@ class bookObj{
     }
 }
 
-
 // book list ui 
 class ui{
     // adding book to the list 
